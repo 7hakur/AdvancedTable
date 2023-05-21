@@ -1,6 +1,9 @@
 html {
   font-family: sans-serif;
 }
+body {
+  margin-top: 100px;
+}
 
 table {
   border-collapse: collapse;
